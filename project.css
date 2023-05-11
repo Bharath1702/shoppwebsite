@@ -1,0 +1,42 @@
+ h1 {
+		border:2px solid white;
+		margin-left:400;
+		margin-right:400;
+		padding-bottom:1;
+		padding-top:1;
+		background-color:black;
+		color:white;
+		font-family:Copperplate;
+ }
+
+p1	{
+		font-size:30;
+		padding-bottom:100;
+}
+body {
+		background-image:url('background2.jpg');
+		background-size:cover;
+		border:2px solid black;
+		padding-left:5px;
+}
+a	{
+		color:black;
+}
+h2	{
+		border:2px solid white;
+		margin-right:1100;
+		padding-left:30;
+		color:white;
+		background-color:black;
+		font-size:30;
+}
+img {
+		border:2px solid black;
+
+}
+p	{
+		color:white;
+		margin-left:80;
+		margin-right:160;
+		
+}
